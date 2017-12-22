@@ -144,6 +144,12 @@ var main = (function($) { var _ = {
 
 		// Thumbnails.
 			_.$thumbnails = $('#thumbnails');
+			$.getJSON("../config/images.json", function (data){
+				debugger;
+      			var strHtml = "<p>hello world</p>";
+			    //显示处理后的数据 
+			    _.$thumbnails.html(strHtml);
+		    }) 
 
 		// Viewer.
 			_.$viewer = $(
