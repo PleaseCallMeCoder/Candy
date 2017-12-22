@@ -2,6 +2,6 @@
 
 something of html
 
-index: http://candy.renleicoder.com/
+motto: http://candy.renleicoder.com/motto
 
 clock: http://candy.renleicoder.com/cubeclock/cubeclock.html
