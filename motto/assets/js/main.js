@@ -148,6 +148,8 @@ var main = (function($) { var _ = {
       			var strHtml = "<p>hello world</p>";
 			    //显示处理后的数据 
 			    _.$thumbnails.html(strHtml);
+			    _.initViewer();
+				_.initEvents();
 		    }) 
 
 		// Viewer.
@@ -504,8 +506,8 @@ var main = (function($) { var _ = {
 
 		// Everything else.
 			_.initProperties();
-			_.initViewer();
-			_.initEvents();
+			// _.initViewer();
+			// _.initEvents();
 
 		// Initial slide.
 			window.setTimeout(function() {
