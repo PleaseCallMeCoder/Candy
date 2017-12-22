@@ -144,7 +144,7 @@ var main = (function($) { var _ = {
 
 		// Thumbnails.
 			_.$thumbnails = $('#thumbnails');
-			$.getJSON("../config/images.json", function (data){
+			$.getJSON("assets/config/images.json", function (data){
       			var strHtml = "<p>hello world</p>";
 			    //显示处理后的数据 
 			    _.$thumbnails.html(strHtml);
