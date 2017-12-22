@@ -1,6 +1,8 @@
 # Candy
 
-something of html
+something of me
+
+index：http://candy.renleicoder.com
 
 motto：http://candy.renleicoder.com/motto/motto.html
 
