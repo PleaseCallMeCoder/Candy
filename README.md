@@ -2,6 +2,6 @@
 
 something of html
 
-motto: http://candy.renleicoder.com/motto
+motto：http://candy.renleicoder.com/motto/motto.html
 
-clock: http://candy.renleicoder.com/cubeclock/cubeclock.html
+clock：http://candy.renleicoder.com/cubeclock/cubeclock.html
